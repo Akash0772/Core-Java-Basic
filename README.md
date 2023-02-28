@@ -11,9 +11,33 @@
     - JDK 15 and Eclipse Setup
 
 
-- [ ] Langauge basics 
-- [ ] Command line arguments 
-- [ ] Conditional statements 
+- [ ] Langauge Basics
+    - Programing elements
+    - Printing in Command prompt
+    - Local variables
+    - Unary Operators
+    - boolean operators
+    - logical operators
+    - binary representation
+    - bitwise operators
+
+
+- [ ] Command line arguments
+    - Command line arguments
+
+
+- [ ] Conditional statements
+    - if block
+    - if blocks
+    - if blocks with unary operators
+    - else block
+    - if-else blocks inside if block
+    - if-else blocks inside else block
+    - if-else blocks with unary operators
+    - ternary operator
+    - switch-cases
+
+
 - [ ] Loops 
 - [ ] Class members 
 - [ ] Non static 
