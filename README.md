@@ -2,11 +2,28 @@
 
 
 
-# Topic List
+# topic list :+1:
 
-- [x] Basic Programming
-- [ ] Data Structure
-- [ ] Algorithms
+- [x] Getting Started
+    - JDK16, winrar and editplus
+    - First Program
+    - Developmnt structure
+    - JDK 15 and Eclipse Setup
+
+
+- [ ] Langauge basics 
+- [ ] Command line arguments 
+- [ ] Conditional statements 
+- [ ] Loops 
+- [ ] Class members 
+- [ ] Non static 
+- [ ] Object Oriented 
+- [ ] Final key word 
+- [ ] classpath 
+- [ ] Important commands 
+- [ ] Scanner class 
+- [ ] Eclipse 
+ 
 
 
 
