@@ -39,6 +39,15 @@
 
 
 - [ ] Loops 
+    * for-loop
+    * break and continue
+    * nesting of loops
+    * labeled loops
+    * for-each loop
+    * while loop
+    * do-while
+    
+    
 - [ ] Class members 
 - [ ] Non static 
 - [ ] Object Oriented 
