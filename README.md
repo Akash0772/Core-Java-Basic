@@ -4,7 +4,7 @@
 
 # topic list :+1:
 
-- [x] ** Getting Started **
+- [x] **Getting Started**
     - JDK16, winrar and editplus
     - First Program
     - Developmnt structure
